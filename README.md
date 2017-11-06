@@ -1,2 +1,2 @@
 # reverse a list
-In this repository, I will continue upload some interesting exercises or projects in python
+There are 3 ways to reverse a list in python
