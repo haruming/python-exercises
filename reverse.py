@@ -23,5 +23,5 @@ def reverse4(str):
 		l -=1
 	return strTemp
 
-test = 'yangweiming'
+test = 'string'
 print(reverse1(test),reverse2(test),reverse3(test),reverse4(test))
